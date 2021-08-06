@@ -1,0 +1,1 @@
+Hello there! 👋 I am happy that you found me on GitHub. Currently, I am pursuing my MSc in Software Development upon which competion in autumn 2022 I am planning to candidate for software-related roles!
