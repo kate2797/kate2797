@@ -8,5 +8,5 @@ Hello, fellow humans! Whatever the reason may be, I am glad that you are looking
 * Complete #100DaysOfCode challenge ✔️
 * Solve 100 Python challenges on Edabit ✔️
 
-### 👋 Get in touch
+### 🧸 Get in touch
 * E-mail: katarina.codes@gmail.com
