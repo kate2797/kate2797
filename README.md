@@ -1,5 +1,3 @@
-Hello, fellow human! Whatever the reason may be, I am glad that you are looking at my GitHub. My name is Katarina and I am currently pursuing a postgraduate degree in Software Development.
-
 ### 💥 Goals for 2021
 * Master Java and SQL
 * Complete mentored Python Track on Exercism
