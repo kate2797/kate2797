@@ -5,6 +5,3 @@
 ### ✨ Goals for 2020
 * Complete #100DaysOfCode challenge ✔️
 * Solve 100 Python challenges on Edabit ✔️
-
-### 🧸 Get in touch
-* E-mail: katarina.codes@gmail.com
