@@ -1,5 +1,5 @@
 ### 💥 Goals for 2021
-* Master Java and SQL
+* Master Java and SQL ✔️
 * Complete mentored Python Track on Exercism
 
 ### ✨ Goals for 2020
