@@ -1,4 +1,4 @@
-### ⚡ Goals for 2023
+### 🌈 Goals for 2023
 * Learn WebVR and A-Frame
 * Brush-up on C++
 * AR/VR programming as a hobby
