@@ -1,6 +1,9 @@
+### 🌸 Goals for 2024
+* Brush up on C++
+* * Complete mentored JavaScript Track on Exercism
+  
 ### 🌈 Goals for 2023
-* Learn WebVR and A-Frame
-* Brush-up on C++
+* Learn C++ ✔️
 
 ### ⚡ Goals for 2022
 * Solidify understanding of Django ✔️
