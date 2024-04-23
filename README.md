@@ -1,6 +1,6 @@
 ### 🌸 Goals for 2024
-* Brush up on C++
 * Complete mentored JavaScript Track on Exercism
+* React Native proficiency
   
 ### 🌈 Goals for 2023
 * Learn C++ ✔️
