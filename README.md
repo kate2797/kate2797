@@ -1,6 +1,6 @@
 ### 🌸 Goals for 2024
-* Complete mentored JavaScript Track on Exercism
-* React Native proficiency
+* React Native seniority
+* TypeScript
   
 ### 🌈 Goals for 2023
 * Learn C++ ✔️
@@ -11,8 +11,6 @@
 
 ### 💥 Goals for 2021
 * Master Java and SQL ✔️
-* Complete mentored Python Track on Exercism ✔️
 
 ### ✨ Goals for 2020
 * Complete #100DaysOfCode challenge ✔️
-* Solve 100 Python challenges on Edabit ✔️
