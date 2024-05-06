@@ -1,5 +1,5 @@
 ### 🌸 Goals for 2024
-* React Native seniority
+* React (Native) seniority
 * TypeScript
   
 ### 🌈 Goals for 2023
