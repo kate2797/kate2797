@@ -5,3 +5,4 @@ Hey there! I'm a developer who's all about crafting sleek, user-friendly interfa
 # My Goals for 2024
 * React (Native) seniority
 * TypeScript mastery
+* Tailwind CSS
